@@ -1,2 +1,2 @@
 # Pruebas-de-GIT
-Este e sun repositoriod e prueba para hacer experimentos con GIT
+Este es un repositorio de prueba para hacer experimentos con GIT
